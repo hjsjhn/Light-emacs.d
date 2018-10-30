@@ -13,6 +13,10 @@ Make sure that the `init.el` contained in the `.emacs.d`.
 git clone https://github.com/SysConKonn/Light-emacs.d.git ~/.emacs.d
 ```
 
+### Notice
+
+You should visit [this site](http://www.cnblogs.com/syscon/p/8544010.html) to download the font Monaco in this config.
+
 ## Update
 
 You can update the config with `git pull`.
