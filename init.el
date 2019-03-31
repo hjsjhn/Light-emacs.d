@@ -36,5 +36,5 @@
              '("melpa" . "http://melpa.org/packages/"))
 (package-initialize)
 (set-default-font "Monaco-13")  
-
+(setq-default indent-tabs-mode nil)
 (global-set-key (kbd "C-x t") 'multi-term)
